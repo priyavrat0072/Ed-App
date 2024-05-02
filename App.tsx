@@ -21,6 +21,7 @@ function App() {
   return (
     <View>
       <Text>ED - App</Text>
+      <Text>Run the app</Text>
     </View>
   );
 }
